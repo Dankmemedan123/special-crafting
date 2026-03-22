@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down":     "customcrafting:block/custom_crafting_table_side",
+    "up":       "customcrafting:block/custom_crafting_table_top",
+    "north":    "customcrafting:block/custom_crafting_table_front",
+    "south":    "customcrafting:block/custom_crafting_table_front",
+    "east":     "customcrafting:block/custom_crafting_table_side",
+    "west":     "customcrafting:block/custom_crafting_table_side",
+    "particle": "customcrafting:block/custom_crafting_table_side"
+  }
+}
